@@ -21,9 +21,9 @@ run program using jupyterlab
 ## Usage
 building a financial database and web application by using SQL, Python, and the Voilà library to analyze the performance of a fintech ETF.
 
-*Hvplot graphs show cumuluative returns of ETF Portfolio, and *
+*Hvplot graphs show cumuluative returns of ETF Portfolio, and PYPL*
 ![visualizes the cumulative return values of the ETF portfolio](https://github.com/MxP05/CH7/blob/main/voila/voila2.png?raw=true)
-![Sales price per square foot and average gross rent San Francisco 2010-2016](https://github.com/MxP05/Challenge-6/blob/main/Images/avg-sale-px-sq-foot-gross-rent.png?raw=true)
+![visaulizes an hvplot of the cumulative returns for PYPL](https://github.com/MxP05/CH7/blob/main/voila/voila.png?raw=true)
 ---
 
 ## Contributors
